@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "deliverableAssetsExists",
+        "transactionLabel": "A test deliverableAssetsExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createDeliverableAssets",
+        "transactionLabel": "A test createDeliverableAssets transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readDeliverableAssets",
+        "transactionLabel": "A test readDeliverableAssets transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateDeliverableAssets",
+        "transactionLabel": "A test updateDeliverableAssets transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteDeliverableAssets",
+        "transactionLabel": "A test deleteDeliverableAssets transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
